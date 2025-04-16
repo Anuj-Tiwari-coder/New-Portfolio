@@ -39,8 +39,7 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  resume1: "./Software Dev.pdf",
-  resume2: "./Web Dev.pdf",
+  resume: "./Web Dev.pdf",
   linkedin: "https://www.linkedin.com/in/anuj-tiwari-459863338/",
   github: "https://github.com/Anuj-Tiwari-coder",
   // leetcode: "https://leetcode.com/u/Razi9913/",

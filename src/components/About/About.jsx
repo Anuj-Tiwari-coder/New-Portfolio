@@ -1,22 +1,22 @@
 import React from "react";
-import {
-  AboutContainer,
-  AboutMainContainer,
-  AboutBg,
-  AboutInnerContainer,
-  LeftAbout,
-  Title,
-  TextLoop,
-  Span,
-  SubTitle,
-  ResumeButton,
-  RightAbout,
-  Img,
-} from "./AboutStyleComponents";
-import AboutBgAnimation from "./AboutBgAnimation/AboutBgAnimation";
-import { Bio } from "../../constants";
 import Typewriter from "typewriter-effect";
 import { AboutImage } from "../../assets/export";
+import { Bio } from "../../constants";
+import AboutBgAnimation from "./AboutBgAnimation/AboutBgAnimation";
+import {
+  AboutBg,
+  AboutContainer,
+  AboutInnerContainer,
+  AboutMainContainer,
+  Img,
+  LeftAbout,
+  ResumeButton,
+  RightAbout,
+  Span,
+  SubTitle,
+  TextLoop,
+  Title,
+} from "./AboutStyleComponents";
 
 const About = () => {
   return (
@@ -41,10 +41,7 @@ const About = () => {
             </TextLoop>
             <SubTitle>{Bio.description}</SubTitle>
             <ResumeButton href={Bio.resume1} target="_blank">
-              Software Dev Resume
-            </ResumeButton>
-            <ResumeButton href={Bio.resume2} target="_blank">
-              Web Dev Resume
+              Check Resume
             </ResumeButton>
           </LeftAbout>
 

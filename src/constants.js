@@ -31,7 +31,6 @@ import { DAFFODIL, SIWS, SWAMI } from "./assets/export";
 export const Bio = {
   name: "Anuj Tiwari",
   roles: [
-    "Software Engineer",
     "Frontend Developer",
     "Backend Developer",
     "Web Designer",

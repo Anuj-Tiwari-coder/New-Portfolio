@@ -40,7 +40,7 @@ const About = () => {
               </Span>
             </TextLoop>
             <SubTitle>{Bio.description}</SubTitle>
-            <ResumeButton href={Bio.resume1} target="_blank">
+            <ResumeButton href={Bio.resume} target="_blank">
               Check Resume
             </ResumeButton>
           </LeftAbout>

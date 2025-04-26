@@ -230,6 +230,13 @@ export const PROJECT_EXPERIENCES = [
     problemFaced: "Faced various installation and runtime errors while practicing.",
   },
   {
+    projectName: "Fake Details Generator",
+    language: "Python",
+    software: "VS Code",
+    duration: "July 2024 - July 2024",
+    problemFaced: "Difficult to generate and manipulate fake data via shell.",
+  },
+  {
     projectName: "Web Scrapping",
     language: "Python",
     software: "PyCharm",
@@ -256,13 +263,6 @@ export const PROJECT_EXPERIENCES = [
     software: "VS Code",
     duration: "July 2024 - July 2024",
     problemFaced: "Difficulties managing and aligning fake data on the report card.",
-  },
-  {
-    projectName: "Fake Details Generator",
-    language: "Python",
-    software: "VS Code",
-    duration: "July 2024 - July 2024",
-    problemFaced: "Difficult to generate and manipulate fake data via shell.",
   },
   {
     projectName: "Portfolio 1 ",

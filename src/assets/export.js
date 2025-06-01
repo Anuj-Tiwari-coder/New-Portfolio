@@ -2,7 +2,8 @@
 export { default as PreloaderImage } from "./preloader/Preloder.gif";
 
 // <======== Exporting About-Section Images ========>
-export { default as AboutImage } from "./about/Anuj Tiwari.png";
+// export { default as AboutImage } from "./about/Anuj Tiwari.png";
+export { default as AboutImage } from "./about/profile.png";
 
 // <======== Exporting Skills-Section Images ========>
 export { default as Bootstrap } from "./skills/bootstrap.png";

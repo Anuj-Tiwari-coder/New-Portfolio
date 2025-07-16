@@ -137,7 +137,7 @@ export const projects = [
     link: "",
   },
   {
-    title: "CURD-Operation-by-Django",
+    title: "CRUD-Operation-by-Django",
     description:
       "A web application built using Django that allows users to perform Create, Read, Update, and Delete (CRUD) operations on a database. The application provides a user-friendly interface for managing data efficiently and securely.",
     image: CURD_Django,

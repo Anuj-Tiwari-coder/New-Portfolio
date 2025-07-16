@@ -1,21 +1,21 @@
-import React from "react";
 import {
+  SiGeeksforgeeks,
+  SiGithub,
+  SiInstagram,
+  SiLeetcode,
+  SiLinkedin,
+  SiTwitter,
+  SiWhatsapp,
+} from "react-icons/si";
+import { Bio } from "../../constants";
+import {
+  Copyright,
   FooterContainer,
   Logo,
   SocialMediaIcon,
   SocialMediaIcons,
-  Copyright,
 } from "./FooterStyleComponents";
-import { Bio } from "../../constants";
-import {
-  SiLeetcode,
-  SiGeeksforgeeks,
-  SiInstagram,
-  SiLinkedin,
-  SiGithub,
-  SiTwitter,
-  SiWhatsapp,
-} from "react-icons/si";
+import React from "react";
 const currentYear = new Date().getFullYear();
 
 const Footer = () => {
@@ -37,6 +37,10 @@ const Footer = () => {
         <SocialMediaIcon href={Bio.linkedin} target="display">
           <SiLinkedin />
         </SocialMediaIcon>
+        <SocialMediaIcon href={Bio.instagram} target="display">
+          <SiInstagram />
+        </SocialMediaIcon>
+
         <SocialMediaIcon href={Bio.github} target="display">
           <SiGithub />
         </SocialMediaIcon>

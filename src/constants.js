@@ -42,6 +42,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/anuj-tiwari-459863338/",
   github: "https://github.com/Anuj-Tiwari-coder",
   // leetcode: "https://leetcode.com/u/Razi9913/",
+  instagram: "https://www.instagram.com/anuj.tiwari.coder",
   geeksforgeeks: "",
   X: "",
   whatsapp:

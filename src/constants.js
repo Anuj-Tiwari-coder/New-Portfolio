@@ -255,7 +255,7 @@ export const PROJECT_EXPERIENCES = [
     language: "Python ,Django",
     software: "VS Code",
     duration: "July 2024 - August 2024",
-    problemFaced: "All clear.",
+    problemFaced: "geting data From Shell.",
   },
   {
     projectName: "Students Report Card Generator",
@@ -269,15 +269,15 @@ export const PROJECT_EXPERIENCES = [
     language: "HTML, Tailwind CSS, React.js",
     software: "Visual Studio Code",
     duration: "October 2024 - November 2024",
-    problemFaced: "All clear.",
+    problemFaced: "Optimizing the website for mobile responsiveness and ensuring cross-browser compatibility.",
   },
   {
-    projectName: "Curd with react",
+    projectName: "Crud with react",
     language: "React.js , CSS, Express.js",
     software: "Vs Code",
     duration: "Novmber 2025 - Novmber  2024",
     duration: "September 2022 - November 2022",
-    problemFaced: "All clear.",
+    problemFaced: "Fetching details from API.",
   },
   {
     projectName: "Todo List with react",
@@ -285,7 +285,7 @@ export const PROJECT_EXPERIENCES = [
     software: "Vs Code",
     duration: "Febuary 2025 - Febuary 2025",
     duration: "September 2022 - November 2022",
-    problemFaced: "All clear.",
+    problemFaced: "Fetching details from API and store in local storage.",
   },
   {
     projectName: "AI Agent/Bot with react",
@@ -293,7 +293,7 @@ export const PROJECT_EXPERIENCES = [
     software: "Vs Code",
     duration: "March 2025 - March 2025",
     duration: "September 2022 - November 2022",
-    problemFaced: "All clear.",
+    problemFaced: "Invaladi detail Response from API key .",
   },
 ];
 

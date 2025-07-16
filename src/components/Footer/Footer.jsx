@@ -10,6 +10,7 @@ import { Bio } from "../../constants";
 import {
   SiLeetcode,
   SiGeeksforgeeks,
+  SiInstagram,
   SiLinkedin,
   SiGithub,
   SiTwitter,

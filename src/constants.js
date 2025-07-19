@@ -176,7 +176,7 @@ export const projects = [
     link: "https://portfolio-anuj-tiwaris-projects-d18c3fcb.vercel.app/",
   },
   {
-    title: "Curd by React",
+    title: "Crud by React",
     description: "Creating a CRUD (Create, Read, Update, Delete) app using React.js for the frontend and Express.js for the backend involves building a full-stack web application where users can interact with data dynamically. Overview: Frontend (React.js): Provides a responsive UI for users to create, view, edit, and delete data. Uses Axios or Fetch API to communicate with the backend. Backend (Express.js + Node.js): Handles API requests, processes data, and interacts with a database (MongoDB/MySQL) to perform CRUD operations.",
 
     image: CURD_React,
